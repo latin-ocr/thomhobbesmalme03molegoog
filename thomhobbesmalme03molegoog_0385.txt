@@ -1,0 +1,50 @@
+DE RECTARUM LINEARUM AEQUATIONE. 227
+
+CAPUT XVIII.
+
+DE RECTARUM ΕΤ PARABOLIFORMIUM LINEARUM
+AEQUATmNE.
+
+1. Datae lineae parabolicae aequalem exhibere rectam—2. Datae
+
+lineae curvae parabolastri primi, sive parabolae cubiformi&
+
+rectam invenire aequalem-3. De rectis inveniendis caeteris ex
+genere parabolico curvis lineis aequalibus methodus generalis,
+
+l. DATAE lineae parabolicae aequalem exhibere ΡΔΙῗξ 111·
+
+recStilJXIIinea parabolica data A B C (fig. l) et in· ”Hx-‘¹³⁸'
+
+venta diameter A D. Ducatur basis D C, et com-¹¹12& οῗδῑῗᾳῖι
+pleatur parallelogrammum A D C E, jungaturque ω m
+
+A C, et divisa A D bifariam in F, ducatur F H
+
+aequalis et parallela rectae D C, secans A C 1n K,
+
+et lineam parabolicam in Ο. Deinde inter F H et
+
+F Ο sumatur media proportionalis F P, ducan-
+
+· turque rectae A Ο, A P et P C. Dico duas rectas
+
+A P et P C, simul sumptaS, aequales esse lineae
+parabolicae A B Ο C.
+
+Nam linea A B Ο C, cum sit parabolica, generata
+est a concursu duorum motuum, altero uniformi ab
+A ad E, altero eodem tempore uniformiter accelerato
+a quiete in A ad D. Cum autem motus ab A ad E
+sit uniformiS, potest A E repraesentare tempora utri-
+usque motus; sit ergo A E tempus. Quare rectae
+in semiparabola ordinatae singulae quaeque designa-
+bunt partem temporis in qua corpuS, quod describit
+lineam A B Ο C, est in unoquoque ipsius punct03
+ita ut quemadmodum, in fine temporis A E vel
+D C, corpus illud est in C, ita in fine temporis F Ο,
+erit in Ο. Et quoniam velocitas in A D crescit
+uniformiter, id est in ratione temporum, eaedem
+
+Q2
+

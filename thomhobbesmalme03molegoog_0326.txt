@@ -1,0 +1,44 @@
+172 PHILOSOPHIA PRIMA.
+
+ΡΑΙΙῑὲ 11· sint magnae) ; aut denique asymptotae sunt. De
+
+s-w—-ae parallelis», angulis, et contingentibuS, quaenam sit
+
+earum natura rjam diximus. Declarabimus ergo
+breviter naturam etiam asymptosiae.
+
+Asymptosia dependet ab‘ eo, quod quantitas
+divisibilis est in infinitum; ex quo sequitur, data
+quacumque linea a eujus termino mobile aliquod
+versus alterum terminum moveatur, possibile esse
+(nempe sumendo gradus velocitatis semper minoreS,
+in ea ratione qua sumuntur semper minores partes
+lineae perpetuo sectae) ut mobile illud super lineam
+illam procedat semper, ad finem vero perveniat
+nunquam. Itaque manifestum est, si recta aliqua
+ut A F (in fig. 8) secetur utcunque in B, et rursus
+BF in C, et C F in D, et DF in E, atque ita
+aeternum, et a puncto F ducatur recta F F in
+angulo A FF quocunque, ordinenturque in eadem
+ratione, qua secta est linea A F, spatia A F, B F,
+C F, D F, E F, etc. ad rectam A F parallehBS, fore
+ut curva A B C D E sit rectae F F asymptota, hoc
+est, ut proprius ad eam semper accedens nunquam
+tamen attingat. Quoniam autem linea quaelibet
+secari potest in perpetuum secundum rationes
+seg-mentorum ad se invicem alias atque aliaS,
+varietate infinita, idcirco etiam asymptotffin diver-
+sae speeies numero infinitae sunt, de quibus hoc
+loco dicendum non est.
+
+20. Situs est relatio loci ad locum. Determi-
+
+{eugr‘ffe‘ natur autem plurium locorum situs quatuor rebus ;
+
+distantiis· inter ae ; distantiis singulorum a loco
+dato ; ordine rectarum a dato ad coetera duc-
+tarum ; et angulis quos sic ductoe comprehendunt.
+Nam si distantiae, et ord0, et anguli dati, id est,
+certi sunt, etiam loca singula certa sunt, ut alia
+esse non possint.
+

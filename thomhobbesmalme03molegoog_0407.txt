@@ -1,0 +1,39 @@
+nn: mMENsmNE: officum. 249
+
+12 ÷ 2 ÷ 9 u aequatur 23 ff, quod minus est quam 1³.st 111·
+24; et per consequens producit calculus arithme· λε’-κ
+ticus quantitatem justo minorem. Quod erat
+demonstrandum. Constat hinc quod calculus
+arithmeticus ab examinatione problematum geo·
+metricorum arceri debeat.
+
+Pnoposmo V.—Radius circuli est media pro· Propositio 5.
+portionalis inter arcum quadrantis et ejusdem
+arcus duas quintas. Jungatur A F secans latus
+C D in H. Quoniam ergo triangula A Β F, A DH
+sunt similia, erit ut Β F ad A Β, sive AD, ita A D
+ad D H. Itaque cum Β F sit aequalis arcui quad-
+rantis Β Ι), erit A D media proportionalis inter
+arcum “Β D et rectam D H. Probandum ergo est
+D H aequari ξ rectae Β F. Secentur latera ΑΒ,
+DC bifariam in M et N, et ducta M N producatur
+ad T, ita ut MT sit aequalis tribus semiradiiS.
+Ducatur BT secans BD arcum in Β, et G Β secans
+MN in Q. Potest ergo ΤΒ 10 semiradios‚ et
+proinde aequalis est rectae B F. Et est angulus
+G Β Β, in semicircuIO, rectus, Triangulis autem
+rectangulis GRB, TMB angulus ad Β est com-
+munis; quare triangula illa sunt similia; et quia
+T M, G M suut aequaleS, triangula T M Β, G M Q
+sunt similia et aequalia. Ergo Β Μ, Q M sunt
+aequaleS, et QT aequalis radio. Iisdem autem
+triangulis similibus simile est triangulum T Β Q.
+Et quia ΜΒ est tertia pars MT, etiam RQ est
+tertia pars ΒΤ, et Β Β tertia pars G Β ; et ut T Q
+ad GB, ita est QR ad Β Β. Est ergo Β Β dupla
+RQ. Quoniam ergo TR est tripla Β Q, erit tota
+T Β ad B R ut 5 ad 2. Est ergo Β Β duae quintae
+totius ΤΒ. Quoniam autem est ut ΤΒ ad M B
+
+semiradium, ita radius T Q ad Q R dimidiam Β Β,
+

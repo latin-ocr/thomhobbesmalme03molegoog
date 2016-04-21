@@ -1,0 +1,39 @@
+nr. nmssnsloNn cmcum. 243
+
+quadruplum est quadrati ab eadem B Ο. Ergo PARS 111·
+ambo illa quadrata ab X A et A Β simul sumpta ε-Ὺ-κ
+sunt aequalia 16 quadratis a B Ο. Medium autem 9¹⁰P⁰⁵¹ '¹¹¹⁰ ¹·
+proportionale inter duodecim quadrata (quae est
+potestas rectae X A) et quatuor quadrata ejusdem
+Β Ο (quae est potestas radii A B) est radix numeri
+producti a 12 in 4, id est a! 483 idemque aequale
+uni complementorum quadrati descripti a tota X A
+-1- Α Β. Ergo ambo complementa simul sumpta
+sunt «Ι 192. Radix autem numeri 192 est 13 Η
+proxime. Ergo 12 -1- 4 -1- 13 ΔΗ, id est 30 fere, (per
+Eucl. El. 2, prop. 4) est aequaie quadrato ab X Β.
+Nam si pro 192 habuissemus 196, fuissent duo
+complementa 14 ; et sic quadratum ab X B fuisset
+aequale 30 quadratis a B 0; et quadratum a BF
+aequale 10 quadratis a B Ο praecise. Est ergo
+quadratum a B F (id est a radio et tangente 30
+graduum, ut ab una linea) aequale decem quad-
+ratis a B Ο proxime. Sed A Β est 10‚000‚000;
+ergo Β Ο est 5,000‚000; quadratum a Β Ο est
+25‚000,000‚000,000; decem quadrata a ΒΟ sunt
+250‚000‚000‚000,000; cujus radix est 15‚811‚704
+proxime. Sed Β C sive F E est 10‚000,000 ; ergo
+C F sive tangens arcus 30 graduum, est 5‚811‚704
+proxime. Quod erat demonstrandum.
+Manifestum hino est quod numerus 5‚7 7 3‚503‚
+qui ponitur in tabulis tangentium pro tangente
+arcus 30 graduum, est falsuS, nimirum justo minor
+partibus 38‚201‚quarum radius continet l 0,000‚000.
+Causa erroris est, non quod numeros non recte
+supputaverint, sed quod numerus in lineas multi-
+plicatus nunquam producit idem, quod linea in
+totidem lineas ducta3 quodque radix numeri
+
+quadrati nunquam latus est quadratae figurae,
+a 2
+

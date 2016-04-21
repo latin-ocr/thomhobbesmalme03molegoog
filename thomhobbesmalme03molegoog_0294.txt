@@ -1,0 +1,47 @@
+PARS 11.
+
+13.
+
+Rationum
+compositiones
+
+142 PnrnosoPmA PmMA.
+
+nium intermediamm; nam si sint quotcunque·
+rationem habentia A, B, C, D, E, ratio A ad E
+componitur ex rationibus A ad D et D ad E, et
+rursus ratio A ad D, ex rationibus A ad C, et C
+ad D, et denique ratio A ad C, ex rationibus A ad
+B, et Β ad C, ut modo ostensum est.
+
+Coroll. 2. Intelligitur hinc quomodo duae rationes
+sunt componendae3 nam si dentur rationes A ad B
+et C ad D simul addendae. Si fiat ut C ad D ita
+Β ad aliud, puta E, ponanturque ordine A, B, E,
+erit ratio A ad E summa ambarum rationum A ad
+Β et B ad E, hoc est C ad D, vel si fiat ut D ad C,
+ita A ad aliud, E, ponanturque ordine E, A, B, erit
+ratio E ad B, composita ex ratione E ad A (hoc est
+C ad D) et A ad B. Intelligitur item quo modo
+ratio a ratione auferri potest ; nam si a ratione A
+ad B, tollenda sit ratio C ad D, fiat ut C ad D ita
+A ad aliud, E, positis jam ordine A, E, B, ablataque
+ratione A ad E, id est C ad D, residua ratio est E
+ad B. -,
+Coroll. 3. Si sint duo ordines habentium ratio-
+nem aliquam, sintque singulae rationes primi ordinis
+eaedem totidemque cum rationibus secundi ordinis,
+sive respondeant singulae singuIiS, id quod vocant
+rationem ordinatam, sive non respondeant, ubi*
+scilicet ratio dicitur perturbata, erunt prima ulti-
+mis proportionalia. Nam primum et ultimum ratio-
+nem habent aequalem omnibus rationibus interjectiS,
+in utroque ordine: quae cum sint eaedem et totidem,
+earum summae sunt aequales ε summis autem aequales
+sunt rationes primorum ad ultima. Eadem itaque
+ratio est primi ad ultimum in uno ordine quae est
+ratio primi ad ultimum in altero ordine; sunt ergo
+prima ultimis proportionalia.
+
+14. Si fuerint duo quaelibet facta ex multiplic-af
+

@@ -1,0 +1,48 @@
+152 PHILOSOPHIA PRIMA.
+
+ 
+
+aaliz? 11. AFmajor, interponatur Α Ε G H B
+
+“u-‘⁴ autem interAB, ΑΕ, —1—1-—1-—---.-
+ffig‘ss'fim media geometrice A G, ———1-— ι-ι
+ξζξὲῗτξξξω et media arithmetice Α F Ῑ Κ Β
+
+Α Η. Et inter A B, A F, ponatur media geometrice
+A Ι, arithmetice A Κ. Dico H G majorem esse
+quam K Ι.
+
+Habemus euim primum ana-
+logismumhunc . . . . AB. AG::BG. GE per
+
+artic. 18.
+Deinde fit componendo secun-
+dus ........ AB†AG.AB::BE.BG.
+Et sumendo antecedentium
+dimidia tertius . . . . {AB†÷AG.AB::BH.BG.
+Et convertendo quartus . . A Β. ÷A B÷4 AG ε : BG. BH.
+Et dividendo quintus . . . a} A Β-Ῑξ 3 (ἒ ἐ A 134} A G
+
+Et duplicando primum ante·
+cedens et primum consequens A B—A G. A B -Ι- A G τε H G.
+
+Sed eadem methodo ostendi Β H.
+potest analogismus hic . . A ΒἙΙΛΞ 1. A B ÷A 1 :2 K 1.
+Quoniam jam major est ratio A B ad A E, quam
+A B ad A F, ratio A Β ad A G, semissis rationis
+majoriS, major est quam ratio A Β ad ΑΙ, semissis
+rationis minoris; et propterea major est A Ι quam
+AG ; quare ratio AB—AG ad A B ÷ AG (per
+lemma praecedens) major erit quam ratio A B—
+ΑΙ ad AB ÷A1. Itaque et ratio HG ad BH
+major erit quam ratio ΚΙ ad Β Κ, multo autem
+major quam ratio KI ad B H majorem quam Β Κ,
+(nam B H semissis est BE, cum B K sit semissis
+B F, per suppositionem, minoris quam Β Ε) ; major
+ergo est H G quam K Ι, quod erat probandum.
+Coroll. Manifestum hinc est quod si quantitas
+aliqua divisa supponatur in partes aequaleS‚ numero
+infinitas, differentiam intermediam arithmeticam
+
+et geometricam fore infinite parvam, id est nullam.
+

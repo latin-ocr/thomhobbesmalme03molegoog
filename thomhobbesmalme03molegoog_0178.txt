@@ -1,0 +1,44 @@
+46 οοΜΡυΤΑΤῙο s1v13 LOGICA.
+
+PARS 1. Similiter directus est homo non est arbor, non
+ῳ est pyrus.
+Conversa autem majore in suam aequipollentem
+per terminorum contradictionem stabit indirecte
+8103
+
+Homo non est arbor,
+Pyrus est arbor.
+
+Ex quibus rursus fit conclusio eadem homo non
+est pyrus,
+
+Oportet autem in convertendo figuram directam
+in figuram indirectamm primam ut major termi-
+nus in figura directa sit negativus, nam etsi ex
+directa hac, homo est animal, est corpu-9, fiat
+indirectus per majoris conversionem ε
+
+Homo est animal,
+Non corpus non est animal,
+ErgO, omnis homo est corpus ,-
+
+tamen conversio apparet adeo obscura ut modus
+ille prorsus inutilis sit. Per conversionem ma-
+joris patet medium terminum in hac figura semper
+esse in utraque praemissa praedicatum.
+
+,Figura 10. Indirectarum secunda fit ex conversione mi-
+
+issgifffi? noriS, ita ut medius terminus utrobique sit subjec-
+
+q¹¹⁰m⁰d⁰ ἧι· tum. Sed nunquam concludit universaliter, neque
+itaque in philosophia utilis est, exemplum tamen
+ejus ponemus, Sit ergo directus, omnis homo est
+animal, omne animal est corpu-5, conversa minore
+
+stabit sic:
+
+Quoddam animal est homo,
+Omne animal est corpuS, Erg0,
+Quidam homo est corpu-9.
+

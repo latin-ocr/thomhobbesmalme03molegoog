@@ -1,0 +1,46 @@
+220 m: numianus mortum.
+
+PARS 111· D E Β C, E K Β F, ut parallelogramma A C, Ῑ F, id
+
+17.
+
+»Ὗ-ι est, in ratione composita altitudinum et basium3
+
+Translatio
+
+proprietatum quoniam ergo altitudo B C ad altitudinem Β F
+quuund2m‚020 ponitur esse in ratione basium D C, F E triplicata,
+
+erit figura DEB C ad figuram E KBF in ratione
+D C ad F E quadruplicata. Eadem methodo inve-
+niri potest ratio cujuslibet ex trilineis praedictis
+ad partem ejusdem quamcunque abscissam a vertice
+recta basi parallela.
+
+J am sicut figurae dictae descriptae intelliguntur
+ex base, puta C D, decrescente donec desinat in
+puncto, ut in Β, ita etiam descriptae eaedem intelligi
+possunt a puncto, ut Β, crescente donec acquirat
+magnitudinem quamlibet, ut C D.
+
+. Intelligatur igitur a puncto Β crescente in mag-
+nitudinem C D, descripta Β Ε D C. Quoniam ergo
+BC est ad BF in ratione CD ad FE triplicata,
+erit invertendo, ut mox ostendemus, FE ad C D in
+ratione Β F ad B C triplicata. Siquidem ergo recta
+Β C sumatur pro mensura temporis in quo movetur
+punctum Β, repraesentabit figura E K Β F summam
+omnium velocitatum crescentium tempore B F,
+et figura D E B C repraesentabit summam omnium
+velocitatum crescentium tempore Β C. Quoniam
+igitur figura EKBF est ad figuram DEBC in
+ratione altitudinum et basium composita, estque
+ratio FE ad CD triplicata rationis Β F ad B C;
+erit figura E K Β F ad figuram D E Β C in ratione
+B F ad Β C quadruplicata, hoc est, summa veloci-
+tatum qua itur tempore B F, est ad summam
+velocitatum qua itur tempore Β C, in ratione Β F
+ad Β C quadruplicata. Itaque si mobile in B
+moveatur velocitate ita crescente, ut velocitas
+tempore Β F acquisita sit ad velocitatem tempore
+

@@ -1,0 +1,49 @@
+nn ANALoolsMo. 143
+
+tione sive ductu in seinvicem plurium quantitatum,
+habentium inter se aliquam rationem, totidemque
+numero utrobique; habebunt facta inter se ratio-
+nem compositam ex singulis multiplicatis ad singula
+multiplicata.
+
+Sint primo facta A in B, et C in D, utrumque ex
+duobus multiplicatio, sive efficientibuS, alterum ex
+A ducto in B, alterum ex C ducto in D. Dico
+rationem Ain Β ad C in D compositam esse ex
+rationibus efficientis A ad efficiens C, et efficientis
+B ad efficiens D. Ponantur enim ordine A in B,
+cin B,CinD. Deinde fiat ut B ad D ita C ad
+aliud, E, ponantur etiam ordine A, C, E, eritque
+(per Coroll. 4, art. 6) ut A in Β primum, ad C in
+Β secundum in ordine primo; Α in B Α
+ita A adC in ordine secundo ; et C in B' C'
+rursus ut C in B,ad CinDprimi C in D' E’
+ordiniS, ita Β ad D, hoc est, per ' ⁶
+constructionem C ad E ordinis secundi. Sunt ergo,
+per Coroll. proxime praecedenS, A in B. Cin D : z A.
+E proportionalia. Componitur autem ratio A ad
+E ex rationibus A ad C, et B ad D, ergo etiam ratio
+A in B, ad Cin D componitur ex iisdem.
+
+Secundo sint duo facta A in B in F, C in D in G
+utrumque ex tribus efficientibuS, alterum ex A, B,
+et F, alterum ex C, D, et G. Dico rationem A in
+B in F, ad C in D in G compositam esse ex rationi-
+bus A ad C, B ad D, et F ad G. Fiat enim quod·
+ante, ut Β ad D ita C ad E, et praeterea ut F ad G
+ita E ad aliud H, ponanturque in ordine primo A
+inBinF,CinBinF,Cin A in B in F Α
+DinF, CinDinG, deinde C in B in F' θ’
+in ordine secundoA,C,E‚H, C in D in F' E’
+eritque ratio A in B in F, ad C in D in G H'
+
+C in Β ἱῐι F primorum, ut ⁶ ⁶
+
+PARS 11.
+
+13.
+§.q-...a
+
+Rationum
+compo-itione&
+

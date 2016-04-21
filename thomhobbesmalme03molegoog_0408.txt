@@ -1,0 +1,45 @@
+PAR-s 111.
+
+*wo-*³
+
+Propositio 6.
+
+250 nn annotemus uoq-mm.
+
+erit ut ΤΒ ad duplam ΜΒ sive radium, ita TQ
+radius ad duplam RQ, id est, ad BR. Est ergo
+radius T Q media proportionalis inter arcum quad-
+rantis et B R, et proinde B R, D H sunt aequales,
+et D H aequalis duabus quintis arcus Β D. Quod
+erat demonstrandum.
+
+Pnorosrno VL--Manifestum est ex modo de-
+monstratis, quo pacto datoe rectae arcus aequaIiS,
+et dato arcui recta aequalis inveniri potest ; et per
+consequens, quomodo arcus datus in ratione data
+potest dividi. Nam a puncto B, sumpta recta in
+B C non majore quam dimidia Β F, si a termino
+ejus ducatur linea recta ad X, illa abscindet a B L
+partem ejus reetae quae sumitur in Β C aequalem.
+Item a puncto Β, si in arou B L sumatur arcus
+aliquia, et per terminum ejus dueatur recta ab X
+et producatur ad latus Β C, illa abscindet in Β C
+rectam arcui· illi aequalem ; id quod, bisecando
+arcum et sinum bisegmenti cujusque duplicandO,
+eadem methodO, qua tota Β F ostensa est esse toti
+arcui Β C aequaliS, ostendi potest. Quare arcus
+non major quam Β L dividi potest, eo modo quo
+diximu8‚ in ratione data. Quod si arcus major
+sit quam arcus 45 graduum, poterit tamen eadem
+methodo dividi pars ejus aliquota, m ratione data, id
+quod tantundem valet. Inventa est ergo methodus
+dividendi arcum vel angulum datum in ratione data.
+
+MAGNm-Uno Ancus BD Anu-En DEMONSTRATA.
+
+Recta composita a radio circuli et tangente arcus
+30 graduum, est aequalis quartae parti perimetri
+ejusdem circuli. Sit A Β C D quadratum3 A C
+diagonalis; arcus Β L D quadrans, sectus bifariam
+in L. Sint latera B C, A D divisa bifariam in O et
+

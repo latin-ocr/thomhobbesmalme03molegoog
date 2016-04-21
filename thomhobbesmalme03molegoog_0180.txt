@@ -1,0 +1,52 @@
+48 COMPUTATIO slvn LoGICA.
+
+mas 1. 12. In singulis his figuriS, si praemissas», per
+*L eas quae possunt esse a quantitate et qualitate
+ffiffffque differentias variare velimus, multi in unaquaque
+
+ffgffiessigffi· earum orientur modi ; nimirum in figura directa
+
+’nqtilesagi 6, in figurarum indirectamm prima 4, in secunda
+
+¹³¹¹¹¹⁰⁸⁰¹²h¹⁸¹¹¹' 14, in tertia 18. Sed quoniam a figura directa
+rejecimus omnes ηιοᾱοε, ut superfluOS, praeter eum
+qui constat ex universalibus; et cujus minor af-
+firmativa est, rejicimus una eos modos caeterarum
+figurarum, quae oriuntur ex praemissarum directae
+figurae conversionibus.
+
+categprtco 13. Sicut autem in propositionibus necessariis
+
+ἶέῗῑῖἔῖἷξῗ ante ostensum est categoricam et hypotheticam
+
+hymmum· aequipollentes esse, ita quoque syllogismum cate-
+goricum et hypotheticum aequivalere manifestum
+
+est. Syllogismus enim categoricus quilibet, hic
+
+Omnis homo εει animal,
+Omne animal εει, corpus, Ergo,
+Omnis homo εει corpus.
+
+Eandem habet vim quam hypotheticus hic,
+
+Si quid εει home, illud εει animal,
+Si quidest animal, illud εει corpus, ErgO,
+Si quid εει komO, illud εει corpus.
+
+Similiter in figura indirecta categoricus hic,
+
+Nullus lapis εει animal,
+Omnis homo εει animal, ErgO,
+Nullus homo εει lapiS, vel
+Nullus lapis εει homo,
+
+AEquivalet hypothetico huic,
+
+Si quid homo εει, animal est,
+
+Si quid lapis εει, animal non εει, ErgO,
+Si quid lapis εει, homo non εει, vel
+
+Si quid homo εει, lapis non εει.
+

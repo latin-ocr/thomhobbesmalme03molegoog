@@ -1,0 +1,44 @@
+nr. anTRo AEQmman. 301
+
+ordine secundo, trilineum ex mediis tribus se· PARS 111·
+cundum, centrum aequilibrii semissis ejus erit in »ἓξ-κ
+recta axi parallela‚ quae dividit basin juxta nu-
+meros fractionis 1925 in quarto ordine duobus locis
+inferioris ; et sic de caeteris trilineis ordine secundi.
+Simili methodo, trilinei ex tribus mediis tertii, in-
+venietur centrum aequilibrii esse in recta axi
+parallela, quae secat basin ita ut pars ad axem
+sit ad reliquam ut 7 ad 13, διο.
+
+corollarium. Centra aequilibrii semissium dicta-
+rum figurarum cognita sunt, cum sint in inter-
+sectione rectarum S T et F G cognitarum.
+
+13. Cognito centro aequilibrii semissis figurae cu· Cognito cen-
+
+juslibet earum, quae in tabella art. 3, cap. xvu. com· {ffmssgssssffssL
+parantur cum parallelogrammo suo, cognoscitur 2202&ngss-
+quoque centrum aequilibrii excessus ejusdem supra 2335&ssss
+triangulum suum. trum excessua,
+
+Sumatur, exempli causa, (in fig. 8) semipara- ffissssgffiffim
+
+bola A B C D, cujus axis A Β, completa A B E D, ‘Jus‘lem Μὴ
+
+excessus supra triangulum suum B C D Β. Ejus et “mmmm
+
+centrum sic invenietur. Ducatur F G parallela
+basi, ita ut A F sit tertia pars axis; et H Ι parallela
+axi, ita ut A H sit tertia pars basis, Erit ergo Ι
+centrum aequilibrii trianguli A B D. Rursus du-
+catur K L parallela basi, ita ut A K sit ad AB ut
+2 ad 5, et M N parallela axi, ita ut AM sit ad AD
+ut 3 ad 8. Terminetur autem M N in recta K L.
+Erit ergo N centrum aequilibrii parabolae A B C D.
+Habemus ergo centra aequilibrii semiparabolae
+AB CD, et partis ejuS, nempe trianguli ABD.
+Ut inveniamus centrum aequilibrii partis reliquae
+B C D Β, ducatur Ι Ν et producatur ad 0; in pro-
+ducta antem sumatur N Ο tripla ipsius IN, eritque
+Ο centrum quaesitum.
+

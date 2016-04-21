@@ -1,0 +1,41 @@
+164 PHILOSOPHIA PmMA.
+
+PARS 11· parallelas A C, B D, sintque A C, B D aequales»,
+κ-γὲα erunt quoque A B, C D aequales et parallelae.
+P⁸P⁸¹¹⁶¹fff¹²¹¹² Ductis enim perpendicularibus B E. D F, erunt
+
+llllllllll
+
+gssffllgss'rffm anguli E B D, F D H recti aequales; quare, cum
+reqtarum pm E F, B D sint parallelae, erunt anguli E B A,
+meme* F D C aequalem jam recta D C rectae B A non
+sit aequalis ; ducatur a puncto D quaeeunque alia
+quae ipsi B A aequalis sit3 ea vero non cadet in
+punctum C, cadat ergo in G, major ergo vel minor
+est A G quam B D; non erunt ergo anguli E BA,
+F D C aequaleS, ut erat suppositum. Sunt ergo
+A B, C D aequales; quod est primum. Et faciunt
+(per art. 11) angulos eum perpendicularibus E B,
+D F aequaleS, quare angulus C D H aequalis est
+angulo A B D; et per allatam parallelarum defi-
+nitionem, erunt B A, C D parallelae; quod est
+secundum. Planum autem, quod duabus utrinque
+parallelis inclusum est, parallelogrammum vocatur.
+Coroll. Ostensum est jam angulos A B D,
+C D H esse aequales, id est, rectam (ut B H)
+incidentem in duas parallelas (ut A B, C D) faeere
+angulum internum A B D aequalem externo et
+opposito C D H.
+11. Atque hine rursus sequitur angulos alternos
+quos efficit recta incidens in duas parallelae,
+aequales esse, hoe est, (in fig. 4) angulum A G F
+aequalem esse angulo G F D. Cum enim G F D
+aequalis sit externo opposito E G B, aequalis
+quoque erit verticali ejus A G F, qui est ipsi
+G F D alternus».
+111. Angulos internos ad easdem partes inei-
+dentis F G aequales esse duobus rectiS. Nam
+anguli ad F, nempe G F C, G F D aequales sunt
+
+duobus reetiS‚ sed angulo G F D aequalis est
+

@@ -1,0 +1,47 @@
+190 DE RATIONIBUS Moroun-
+
+PAR-511¹· velocitas per A Β, ut quae fit ab impetu A L 111
+»af—a tempus A Β, erit parallelogrammum A Μ. Simili-
+uter si sumatur F N, quae sit ξ impetus F Κ, com-
+
+¹¹¹¹² pleaturque parallelogrammum F Ο, erit F O tota
+oevelocitas per tempus A F, ut quae fit ab impetu
+
+moemng A O sive F N uniformi ducto ιιι tempus A F. Sit
+autem longitudo percursa tempore A B, velocitate
+A M, recta D E. Postremo supponatur longitudo
+percursa tempore A F, velocitate A N, esse D P.
+Dico, esse ut A M ad A N, sive ut parabola
+AKIBadparabolam A K F, ita D E adDP.
+FiatutAMadFL, hoc est, utA BadAF, ita
+D E ad D G. Jam ratio A M ad A N componitur
+
+1188
+
+ttttttttt
+
+ex rationibus A M ad F L, et F L ad A N. Sed
+ut A M ad F L, ita est (per constructionem) D E
+ad D G : et ut F L ad A N (quia tempus utrobique
+idem est, nempe A F) ita longitudo D G ad longi-
+tudinem D P. Nam eodem tempore percursae
+longitudines sunt ut velocitates. Quare ex aequo
+
+’ ut A M ad A N, hoc est, ut impetus A L ductus
+in tempus suum A B, ad impetum A O ductum in
+tempus suum A F, ita D E ad D P. Quod erat
+probandum.
+
+Coroll. 1. Longitudines percursae motu ita acce-
+lerat0, ut impetus continuo crescant in ratione
+temporum duplicata, sunt in ratione suorum tem-
+porum triplicata. Nam ut longitudo D E ad D P, ita
+est parallelogrammum A M ad parallelogrammum
+A N, et ita parabola A Β Ι K, ad parabolam A K F.
+Sed parabola A B I K est ad parabolam A K F, in
+ratione triplicata ejus rationis, quam habet A Β
+tempus ad A F tempus. Quare etiam ratio D E
+
+ad D P est triplicata rationis A Β ad A F.
+Coroll. 11. Longitudines percursae aequalibus
+

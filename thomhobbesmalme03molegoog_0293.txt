@@ -1,0 +1,42 @@
+1111 ANALomsMo. 141
+
+rationes AB ad AC, et Ac ad A D, et quae deter- PARS 1¹-
+minat rationem A Β ad A D. Quare (per def. »ΕΣ-ν
+ejusdem rationis traditam artic. 6 ,) ratio A B ad Rssg‘l'ssussssm
+A C, una cum ratione A C ad A D, eadem est cum
+
+ratione A B ad A D.
+
+Secundo, sit A D prima, A C secunda, A B tertia,
+ut sit ratio excessus sive majoris ad minorem.
+Erunt, ut prius, rationes A D ad A C, et A C ad A B,
+et A D ad A B determinatae a differentia temporum ;
+quae hic quoque tanta est in descriptione A D et
+A C, et in descriptione A C et A B, simul sumpta,
+quanta est in descriptione A D et A B: est ergo
+ratio A D ad A B aequalis rationibus ambabus A D
+ad AC et AC ad AB.
+
+Postremo si una rationum, nempe A D ad A Β,
+sit ratio excessus, altera A B ad A C ratio defectus,
+sic quoque ratio A D ad A C aequalis erit rationibus
+ambabus simul A D ad A B, et A B ad A C. Nam
+differentia temporum quibus describuntur A D,
+A B, est temporis excessus; nam plus temporis
+ponitur in describenda A D, quam A B; differentia
+vero temporis in describendis A B, A C est defectu8‚
+nam minus ponitur temporis in describenda A B
+quam A C. Sed excessus hic et defectus simul
+sumpti facient D Β-Β C, cui aequalis est D C ex-
+cessus primi A D supra tertium A C; eadem ergo
+est causa determinans rationem primi A D ad
+secundum A B, cum ratione secundi A B ad tertium
+A C, quae determinat rationem A D primi ad A C
+tertium. Quare si fuerint, &c.
+
+Coroll. 1. Si sint quotcunque rationem habentia,
+ratio primi ad ultimum componitur ex rationibus
+primi ad secundum, secundi ad tertium, et sic
+deinceps, usque ad ultimum ; sive eadem est ratio
+primi ad ultimum, quae est summa rationum om-
+

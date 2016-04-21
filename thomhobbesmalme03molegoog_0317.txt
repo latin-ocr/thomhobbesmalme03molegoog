@@ -1,0 +1,53 @@
+DE REc‘rO, CURVO, E‘rc. 165
+
+alternus A G F, quare ambo G F C, A G F, qui PARS 11·
+
+14.
+
+sunt interni ad easdem partes incidentis F G, *74
+
+duobus rectis aequales erunt.
+
+Parallela‘rum
+universalis
+
+1v. Trianguli plani rectilinei tres anguli simul definitio et
+
+parallelarum
+
+sumpti duobus rectis aequales sunt, et, producto rectarum pro-
+
+quolibet latere, angulus externus duobus internis
+oppositis erit aequaliS. Nam lateri cuivis A B
+(fig. 5) per trianguli plani A B C verticem ducatur
+parallela, anguli A et B erunt alternis suis F, E
+aequaleS, et angulus C est communis. Sed tres
+anguli E, C, F (per art. 10) aequales sunt duobus
+rectis; quare et tres anguli trianguli aequales sunt
+iisdem; quod est primum. Deinde duo anguli
+B, D aequales sunt duobus rectis (art. 10) ; ablata
+ergo B, restabunt anguli A, C, aequales angulo D ;
+quod est secundum.
+
+v. Si anguli A et B sunt inter se aequaleS, etiam
+latera A C, C B aequalia erunt, quia A B, E F
+sunt parallelae. Et contra, si A C, C B latera
+sunt aequalia, erunt anguli A, B aequales ; nam si
+non sunt aequaleS, sint anguli B, G aequales;
+quoniam ergo G B, E F sunt parallelae, et anguli
+G, B aequaleS, erunt G C, C B rectae aequales, et
+quia ponuntur aequales C B, A C, erunt C G, C A
+rectae aequaleS‚ quod fieri non potest (per art. ll).
+
+vl. Ex quo intelligitur duos circuli radios recta
+connexos facere cum connectente angulos utrinque
+aequaleS, adjectoque segmento circuli cujus subtensa
+sit eadem recta radiorum terminos connectens,
+etiam duos anguIOS, quos radii illi cum circum-
+ferentia faciunt, aequales esse ; nam recta, arcum
+quemlibet subtendenS, angulos cum ipso aequales
+efficit, quia divisis bifariam arcu et subtensa ejuS,
+duae medietates segmenti propter uniformitatem
+
+prietates, ⁷
+

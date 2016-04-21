@@ -1,0 +1,49 @@
+nn Moru. 205
+
+in punctis E, F et N, L in easdem rationes).
+Quare producta Α L ad occursum M K productae
+incidet in eam ad punctum F, et divisa A B bifa-
+riam in Ο, erit ut IK ad IN, ita AB ad AO.
+Quoniam ergo IL media est inter IK, IN, erit
+quoque A 1 media inter A B et Ao ejus semissem.
+Est autem A B media inter A H et ejus semissem
+
+A 1. Quare ut A H ad A B mediam inter A H, A Ι,
+ita est A B ad AI mediam inter AB, AO; et
+proinde ita excessus A H supra A B (qui est B H)
+ad BI excessum AB supra AI; quod erat, etc.
+Simili demonstratione probari potest idem hoc
+theorema in quacunque alia accelerationum ra-
+tione, numeris quidem explicabili.
+
+18. In quolibet parallelogrammo si duo latera
+angulum continentia eodem tempore moveantur
+ad latera sibi opposita, alterum quidem motu uni-
+formi, alterum autem motu uniformiter accelerato >;
+latus quod movetur motu uniformi, concursu suo
+per totam longitudinem suam tantumdem efficit,
+quantum efficeret, si alter etiam motus esset uni-
+formiS, longitudo ver0, eodem tempore percursa,
+media proportionalis inter totam et dimidiam.
+
+Sit (in fig. ll) parallelogrammum A B D C;
+intelligatur autem latus A B moveri motu uni-
+formi, donec jaceat in CD; sitque tempus illius
+motus A C sive B D. Eodem etiam tempore intel-
+ligatur moveri A C motu uniformiter accelerato,
+donec jaceat in B D. Deinde divisa AB bifariam
+in E, sumatur inter A B et A E media propor-
+tionalis A F, et ducta F G parallela ipsi A C, intel-
+ligatur idem latus A C, et eodem tempore, moveri
+motu uniformi donec jaceat in FG. Dico AB
+totam tantum conferre ad velocitatem mobilis
+
+PARS 111.
+
+16.
+
+Si mobile fera-
+tur α duobus
+
+simul, etc.
+

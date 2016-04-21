@@ -1,0 +1,44 @@
+nn ANALofflsMO. 131
+
+ratio primi antecedentis ad primum consequens PARS 11·
+quam secundi ad secundum, quatuor magnitudines s-Essa
+ita se habentes vocari possunt hypologismus.
+
+5. Ratio arithmetica rationi arithmeticae eadem Rationiq eju·- .
+est, quando unum antecedens consequens suum {¹122 issi-iffi}
+tanto superat, vel ab eo superatur, quanto ante· ‘³‘ 9¹⁰P⁶⁸m⁸⁵
+cedens alterum superat, vel superatur a conse-
+quente suo. Itaque in quatuor arithmetice
+proportionalibus summa extremorum aequalis est
+summae mediorum. Nam si sint A. B :2 C. D
+arithmetice proportionalia, sitque differentia utro-
+bique idem excessus vel idem defectus Ε, 8111
+B÷c (si modo A majus sit quam B) aequale
+A—E÷C. At A÷D erit aequale A÷c—-E. Sed
+A—E÷C et A÷C—E sunt aequalia. Sin A quam
+B minus sit, erit B÷C aequale A÷E÷c‚ at A÷D
+aequale erit A÷C÷E. Sunt autem A÷E÷C, et
+A÷C÷E aequalia.
+
+Item si sint quotcunque arithmetice continue
+proportionalia, summa omnium est aequalis facto
+ex dimidiato numero terminorum multiplicato in
+summam extremorum. Sint enim A. B :z C. D τε
+Ε. F arithmetice continue proportionalia, bina
+A÷F, B÷E, C ÷D, sunt inter se aequalia, quorum
+summa fit ex ductu A ÷F in numerum combi-
+nationum, hoc est, in semissem numeri terminorum.
+
+Si sint quatuor magnitudines inaequaleS, sint
+autem - duae simul duabus reliquis simul aequaleS,
+maxima et minima erunt n eadem combinatione.
+
+Sint magnitudines inaequales A, B, C, D, sintque
+
+A÷B aequales C ÷D‚ maxima autem omnium sit A,
+
+dico B esse omnium minimam. Sit enim, si fieri
+
+potest, utravis reliquarum, puta D, minima ; quo-
+1< 2
+

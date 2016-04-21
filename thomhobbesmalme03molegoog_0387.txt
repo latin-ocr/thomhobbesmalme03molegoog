@@ -1,0 +1,50 @@
+DE· RECTARUM LINEARUM AEQUATIONE. 229
+
+2. Lineae curvae parabolastri primi, sive para- PARS 111·
+
+bolae cubicae, invenire aequalem rectam.
+Sit A Β Ο (fig. 2) linea curva semiparabolastrl
+
+18.
+
+· Date lineae
+ccccc parabo·
+
+primi; A D diameter; D C basis; compleaturque ¹³J⁸tri primi,
+
+swe parabolae
+
+parallelogrammum A D ΟΕ, cujus diagonalis sit cubisofmisgec·
+A C. Secetur diameter bifariam in F, ducaturque ξᾝιιζιιῖζθωω
+
+FH aequalis et parallela D C, secans A C in K, et
+curvam in Ο, et rectam E C iu H. Deinde duca-
+tur Ο L parallela E C, secans A C in L; ducaturque
+L N parallela basi D C, secans curvam in M, et
+E C in N, producaturque ex altera parte ad A D iu Ι.
+Postremo, per punctum M ducatur P M Q paral-
+lela et aequaJis H C, secans F H in P, junganturque
+ΟΡ, ΑΡ, et AO. Dico duas rectas ΑΡ et PC,
+simul sumptaS, aequales esse curvae A Β Ο Ο.
+
+Nam linea A Β Ο Ο, cum sit linea curva semipa-
+rabolastri, generata est a concursu duorum motuum,
+altero uniformi ab A ad E, altero eodem tempore
+accelerato a quiete in A ad D, ita ut impetus
+crescat in ratione duplicata ejus secundum quam
+crescunt tempora, sive, quod idem est, longitu-
+dines transcursae sunt in ratione triplicata tem-
+porum quibus transcurruntur. Nam ut impetus
+sive velocitates crescunt.. ita crescunt etiam trans-
+cursae longitudines. Et quoniam motus ab A ad E
+est uniformiS, recta A E potest repraesentare tem-
+puS, et, per consequens, rectae ordinatim applicatae
+in semiparabolastro designabunt partes temporis,
+in quo corpuS, incipiens a quiete iu A, motu suo
+describit lineam A Β Ο Ο. Et quia D C, quae re-
+praesentat impetum acquisitum maximum, aequalis
+est ipsi AE, eaedem ordinatae repraesentabunt sin-
+gula incrementa impetus crescentis a quiete in A.
+Itaque si supponatur motus uniformis ab A ad F,
+in tempore F K describetur, a concursu duorum
+

@@ -1,0 +1,61 @@
+242 ιη murmurans ›ro-ruma.
+
+CAPUT XX.
+
+DE DIMENSIONF. cmcUL13 ΕΤ ARCUUM mvn ’
+ANGULORUM SECTIONE.
+
+2⁴15}- 1¹1· Pnoposmo I.—Quarum partium aequalium ra-
+
+*ssd dius circuli continet 10,000‚000, earundem tangens
+
+Pmp⁰⁸¹⁰⁰ ¹· arcus 30 graduum continet 5‚811,704 proxime.
+
+Sit radius circuli A B; quadratum ejus A Β ΟΙ);
+
+cujus latera Β C, A D sint divisa bifariam in Ο et
+
+P. Describatur semicirculus B D G, quem juncta
+
+Ο Ρ secet in S, et producta, iterum in V ; est ergo
+
+arcus B S 30 graduum. A puncto A in B A pro-
+
+ducta sumatur A X rectae S V aequaIiS. Est ergo
+
+A X aequalis duplo sinui reoto 60 graduum. Ergo
+
+ducta X V est aequalis radio A B; eademque pro-
+
+ducta incidet in D; et X D est aequalis duplo radio
+
+AB; et angulus AXD est tertia pars recti. Pro-
+
+ducatur X D donec occurrat rectae Β C productae
+
+in F. Erit ergo angulus C D F tertia pars recti3 et
+
+recta C F tangens arcus 30 graduum. Ergo juncta
+
+A S et producta ad Β C in E, erit Β Ε aequalis C F,
+
+et E F aequalis radio B C. Dico B E sive C F con-
+
+tinere partes 5,811‚704 proxime, quarum A Β
+
+eontinet 10‚000,000. Quoniam X D est dupla A D,
+
+erit X F dupla B F. Et quadratum ab X F quad-
+
+ruplum quadrati a B F. Et proinde quadratum ab
+
+X B triplum quadrati a B F. Quadratum a sinu
+
+recto 60 graduum triplum est quadrati a semiradio
+
+A P vel B Ο. Ergo quadratum a duplo sinu recto
+
+60 graduum, id est, quadratum ab X A duodecuplum
+
+est quadrati a Β Ο. Quadratum autem ab A Β
+

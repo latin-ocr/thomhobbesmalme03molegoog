@@ -1,0 +1,48 @@
+DE nnc‘m, cunv0, nro. 157
+
+4. Si recta linea in plano existens ita moveatur,
+ut, manente uno termin0, tota simul circumferatur,
+donec redeat in locum unde moveri coeperat, des-
+cripta erit superficies plana undiquaque terminata
+a linea curva, ea scilicet quam describit terminus
+circumlatus. Vocatur autem ea superficies cir-
+culus ; et punctum immotum circuli illius centrum ;
+linea autem curva, circulum terminans, circuli
+perimeter; et pars ejus quaelibet, circumferentia et
+arena. Recta generans semidiameter‚ et radius ;
+recta per centrum, terminata utrinque in circum-
+ferentia, diameter appellatur. Praeterea radii
+describentis circulum unumquodque punctum peri-
+metrum eodem tempore describit propriam, termi-
+nantem circulum proprium, qui caeteris omnibus
+(quoniam commune cum illis habet centrum) dici-
+tur conce-alricus.
+
+1. Itaque in circulo omnes rectae a centro ad
+circumferentiam sunt aequales3 nam singulae coin-
+cidunt cum eodem radio generante.
+
+11. Et diameter dividit tum perimetrum, tum
+circulum ipsum in duas partes aequaleS. Si enim
+duae illae partes sibi mutuo applicentur, cum
+habeant diametrum communem, si semiperimeter
+altera alteri congruit, aequales sunt, tum ipsae, tum
+etiam semicirculi, quia congruent et illi ; si semi-
+perimetri non congruent, recta aliqua eadem a
+centro (quod in diametro est) ab iis secabitur in
+duobus punctiS, itaque, quum a centro ad circum-
+ferentiam rectae omnes sint aequaleS, erit ejusdem
+rectae pars aequalis toti ; quod est impossibile.
+
+111. Propter eandem causam erit perimeter cir-
+culi uniformiS, id est, pars ejus quaelibet cuilibet
+parti sibi aequali congruet.
+
+ΡΑ Rs 11.
+
+14.
+
+circularis
+lineoe definitio
+et proprietates.
+

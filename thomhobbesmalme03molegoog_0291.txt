@@ -1,0 +1,45 @@
+nn ΑΝΑιοωεΜο. 139
+
+‹rentia primorum ad differentiam secundorum est PARS 11·
+ut antecedens primum ad antecedens secundum, »Εἰ-κ
+vel ut consequens primum ad consequens secun- ssffiffiss
+
+dum; sint enim proportionalia A, B :z C, D, erunt ssggmgfm
+dividendo A—B. B t: C—D. D proportionalia, et magnitudinem.
+permutando A—B. c—D :z Β. D, hoc est diffe-
+
+rentiae consequentibus sunt proportionaleS, ideoque
+
+et antecedentibus,
+
+ll. Si quatuor proportionalium primum sit
+,majus secund0, etiam tertium quarto majus erit.
+ε Quoniam enim primum majus est secund0‚ ratio
+primi ad secundm est ratio excessua, sed ratio
+tertii ad quartum eadem est quae primi ad secun-
+dum; est igitur ratio tertii ad quartum ratio
+excessus; majus ergo est tertium quarto. Eodem
+modo probatur, quoties primum secundo minus est,
+toties tertium quarto minus esse, et quoties aequalia
+sunt prima, aequalia esse secunda.
+
+12. Si sint quatuor proportionalia quaecunque
+A. B z: C. D, fuerintque primum et tertium per
+quemlibet unum numerum multiplicata, puta per 2,
+et rursus secundum et quartum per quemlibet
+unum numerum multiplicata, puta per 3, sitque
+multiplex primum 2 A majus multiplici secundo
+3 B, erit quoque multiplex tertium 2 C majus
+multiplici quarto 3 D. Sin multiplex primum
+minus sit multiplici secund0, erit quoque multiplex
+tertium minus multiplici quarto. Si denique
+multiplicia primum et secundum sint inter se
+aequalia, etiam multiplicia tertium et quartum
+inter se aequalia erunt. Est autem theorema hoc
+idem quod ejusdem rationis apud Euclidem defi-
+nitio. Demonstratur autem sic.
+
+Quoniam A. B :z C. D sunt proportionalia, erunt
+
+quoque permutando (per art. 6. cor. l) A.C 2: B.D
+

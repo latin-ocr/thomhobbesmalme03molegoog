@@ -1,0 +1,48 @@
+214 nu RA‘rloman Mormm.
+
+PARS 111· ad aliam, E H ς et per omnia puncta H ducatur
+
+17.
+
+*ἥρ-ν linea D H H B; habebimusque trilineum Β H H DC,
+
+Eorundem
+figurarum
+descriptio
+
+et productio.
+
+quod voco ex media una; quia in tribus propor- “
+tionalibuS, ut E F, EG, E H, unica est media,
+nempe E G; estque trilineum hoc parallelogrammi
+ξ, nempe parabola. Rursus fiat ut E G ad E H,
+ita E H ad aliam, E Ι ; ducaturque linea Β I I D,
+habebiturque trilineum B ΙΙ D C quod est paralle-
+logrammi tres quartae, vocaturque a nonnullis
+parabola cubica. Eodem modo si rationes in E F
+sumptae ulterius continuentur, emergent trili-
+nea caetera columnae primae. Quod verum esse
+ostendemus hoc modo. Ducantur rectae basi D C
+parallelae, ut H K, G L; quoniam ergo E F est
+ad E H in duplicata ratione E F ad E G sive
+BC ad BL, hoc est, CD ad LG, sive K M
+ad K H, erit Β C ad Β Κ in duplicata ratione
+ΚΜ adKH; sed ut BC ad ΒΚ, ita DC sive
+KM ad K N; est ergo KM ad ΚΝ in duplicata
+ratione K M ad K H ; idque, ubicunque ponatur
+recta parallela K M; est ergo figura Β Η D C
+dupla complementi sui Β Η D A, et proinde totius
+parallelogrammi ξ. Eodem modo si ducatur ΟΡΙΩ,
+ostendi potest rationem O Q ad O P, id est, Β C
+ad B O, triplicatam esse rationis Ο Q ad O I, et
+proinde figuram Β Ι D C esse triplam complementi
+sui B Ι D A, et per consequens totius parallelo-
+grammi tres quartaS, etc.
+
+Secundo, ut describantur trilinea quae sunt in
+quolibet ordinum transversorum, faciendum est
+hoc modo. Sit parallelogrammum (in fig. 3)
+A B C D, cujus diagonalis B D ; volo in eo descri-
+bere trilinea, quae in tabella praecedente appello
+trilinea ex mediis tribus, Duco igitur E F paral,-
+

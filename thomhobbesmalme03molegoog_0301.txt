@@ -1,0 +1,48 @@
+DE ANALoelsMo. 149
+
+23. Si sint quatuor proportionalia, interponan-
+
+tur autem tam inter primum et secundum, quam
+inter tertium et quartum medium proportionale,
+erit medium ad medium ut primum ad tertium, sive
+ut secundum ad quartum. Sint enim A. B 2: C. D
+proportionalia, intel-ponanturque inter A et B
+medium E, et inter C et D medium F. Dico
+A. C z: E. F esse proportionalia. Ratio enim A
+ad E subduplicata est rationis A ad B sive C ad D.
+Etiam C ad F subduplicata est rationis C ad D.
+Sunt ergo A. E ει C. F proportionalia, et permu-
+tando A. C τε Ε. F sunt proportionalia, quod erat
+probandum.
+
+24. Dividi dicitur aliquid in extremam et mediam
+rationem, quando totum et partes sunt in ratione
+continua. Exempli causa, quando A÷B. A. B.
+sunt continue proportionaleS, vel recta A C ita
+divisa sit in B, ut AC, AB, B C sint Α Β C
+in ratione continua. Quod si eadem — 1—— 1—-
+A C divisa rursus fuerit in D, ut sint
+A C, C D, A D continue proportionales, erunt A C,
+A B, A D continue proportionales», et recurrendo,
+C A, C D, C B; quod in linea aliter secta fieri
+non potest.
+
+25. Si sint tria continue proportionalia, et rursus
+alia tria continue proportionalia, habentia medium
+terminum eundem, erunt extrema reciproce pro-
+portionalia.
+
+Sint enim A, B, C, et rursus D, B, E continue
+proportionalia, erunt quoque A. D z: E. C propor-
+tionalia; nam ratio A ad D componitur ex ration-
+ibus A ad B et B ad D, et ratio E ad C componitur
+ex rationibus E ad B, hoc est B ad D, et B ad C,
+
+PARS 11.
+
+1³.
+
+Rationi sssss ’
+tinuae definitio
+et proprietates.
+

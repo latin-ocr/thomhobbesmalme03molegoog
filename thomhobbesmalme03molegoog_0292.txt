@@ -1,0 +1,41 @@
+140 ΡΗιιοεοΡΗιΑ PRIMA.
+
+PA1¹³38 ¹1· proportionalia. Itaque (per coroll. 4. ejusdem
+»ὴὲ-ν art. 6.) 2 A. 2 C :z 3 B. 3 D erunt proportionalia;
+rursusque permutando erunt 2 A. 3 B :z 2 C. 3 D
+proportionalia. Quare (per praecedentem) si 2 Α
+sit majus quam 3 B, etiam 2 C erit majus quam
+3 D; si minus, minus; si aequale, aequale3 quod
+erat demonstrandum.
+Rationum 13. Si fuerint tres magnitudines quaecunque,
+mm⁹⁰⁸¹u⁰¹¹⁰⁸ vel tria quaecunque habentia inter se rationem
+aliquam, ut tres numeri, tria tempora, tres graduS,
+etc. rationes primi ad secundum, et secundi ad ,‚
+tertium simul sumptae‚ sunt aequales rationi primi
+ad tertium.
+
+Sint tres lineae, (nam ratio quaevis ad rationem
+linearum reduci potest) AB, AC, AD; et primum,
+sit ratio tam primae A B ad secundam A C, quam
+secundae A C ad tertiam A B C D
+A D, ratio defectuS, sive ———-————
+minoris ad majorem. Dico rationes ambas simul
+
+A B ad A C, et A C ad A D, aequales esse rationi
+A B ad A D.
+
+Supponatur punctum A moveri per totum A D
+uniformiter. Itaque rationes tam A B ad A C,
+quam A C ad A D, determinantur a differentia
+temporum quibus describuntur3 id est, habet A B
+ad A C rationem illam quam diversa descriptionis
+tempora determinant, et A C ad A D rationem
+quam determinant tempora sua. Sed et ratio A B
+ad A D illa est, quam determinat differentia tem-
+porum quibus ipsae A B et A D describuntur ;
+differentia autem temporum quibus describuntur
+A B, A C, una cum differentia temporum quibus
+describuntur AC et AD, eadem est cum differentia
+temporum quibus describuntur AB et AD. Eadem
+ergo causa est, quae determinat ambas simul
+

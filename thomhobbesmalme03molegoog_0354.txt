@@ -1,0 +1,50 @@
+PARS 111.
+
+16.
+»Ὗ-κ
+
+Si mobile sera-
+tur a duobus
+simul, etc.
+
+200 DE RA'rloNissUs MOTUUM.
+
+minus promovetur mobile ab A B versus C D, quam
+si uterque motus esset uniformis. Quod erat
+demonstrandum.
+
+13. Data longitudine percursa dato tempore
+motu uniformi, longitudinem invenire quae percur-
+retur eodem tempore motu uniformiter acceleratO,
+id est, ita ut longitudines percursae sint ubique in
+ratione temporum duplicata, et impetus ultimo
+acquisitus aequalis sit tempori.
+
+Sit (in figura 8) longitudo A B percursa motu
+uniformi, tempore A C ; oportet longitudinem
+aliam invenire, quae percurratur motu uniformiter
+accelerato, eodem tempore, ita ut impetus ultimo
+acquisitus aequalis sit rectae A C.
+
+Compleatur parallelogrammum A B D C, et divi-
+datur B D bifariam in E, et inter B E, B D sumatur
+media proportionalis B F, ductaque A F produ-
+catur ad occursum CD productae in G, complea-
+turque parallelogrammum A C G H. Dico A H
+esse longitudinem quaesitam.
+
+Fiat enim ut ratio duplicata ad rationem simpli-
+cem, ita A H ad aliam, A 1; eritque Al semissis
+A H ι ducaturque IK parallela rectae A C, secans
+diagonalem A D in K et rectam A G in L. Quo-
+niam ergo AI est semissis A H, erit quoque Ι L
+semissis B D, id est, aequalis BE, et IK aequalis
+BF. Cum enim BD, id est GH, BF, BE, id est
+Ι L, sint continue proportionaleS, erunt quoque
+AH, A B, AI continue proportionales. Sed ut
+AB adAl, hoc est, ut AH ad AB, ita BD ad
+IK, et ita etiam GH, id est BD, ad BF; sunt
+ergo BF, ΙΚ aequales. Jam ratio AH ad ΑΙ
+duplicata est rationis A B ad A l, hoc est, rationis
+B D ad IK, sive G H ad 1 K; erit ergo punctum
+

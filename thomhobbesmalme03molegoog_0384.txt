@@ -1,0 +1,51 @@
+PARS 111.
+
+17.
+
+Quomodo ex
+descriptisfigu·
+ris deficienti-
+bus in pmlle·
+logi-ammo, in-
+terjici possunt
+inter {duas li-
+neas rectas
+quotlibet me·
+diae propor-
+tinnula.
+
+226 DE RA'rmmnus ΜοτυυΜ.
+
+anguli D A B faciat excessum tum superficiei por-
+tioniS, tum etiam circuli a radio A D, super super-
+ficiem coni recti, quam describit subtensa A B;
+tantum superabit circulus a radio A D superficiem
+conicam, quantum eandem superabit superficies
+sphaerica ab arcu A B. Sunt igitur circulus ab
+A D sive A Β, et superficies spbaerica ab arcu A Β,
+inter se aequales. Quod erat probandum.
+
+14. Si fignrae deficienteS, quas descripsimus in
+parallelogrammO, exquisite describi possent, pos-
+sent {inde, inter duas rectas datas, tot interponi
+mediae proportionaleS‚ quot quis voluerit. Exempli
+gratia, in parallelogrammo A B C D sit descriptum
+(ut in fig. 8) trilineum ex mediis duabus B E D C,
+(quod vocatur a nonnullis parabola cubica) sintque
+datae duae rectae R et S, oporteatque invenire
+inter R et S duas medias proportionalem hoc
+modo fiet. Fiat ut R ad S, ita BC ad aliam, BF;
+tum ducatur F E parallelo, B A, secans lineam cur-
+vam ⁸in E; deinde per E ducatur G H parallela et
+aequalis rectae A D, secans diagonalem B D in I;
+eritque inter GH et GE duarum mediarum maxima
+G Ι, ex descriptione figurae tradita artic. 4. Si fiat
+igitur ut GH ad GI, ita Rad aliam, T, erit T
+duarum mediarum inter R et S maxima. Itaque
+si rursus fiat ut R ad T, ita T ad aliam, X, factum
+erit quod propositum fuit.
+
+Eodem modo si trilineum ex quatuor mediis
+descriptum sit, inveniri possunt mediae propor-
+tionales quatuor ; et sic de caeteris,
+

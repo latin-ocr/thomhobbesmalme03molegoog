@@ -1,0 +1,45 @@
+nn nemus nanclart-nnus, 221
+
+B C acquisitam, in ratione ipsorum temporum Β F, PARIS7111·
+Β C triplicata, atque ipsum tempus, quo mobile »ἠέ-κ
+Β fertur ad F, sit BF, feretur idem mobile, tempore ffr‘ssssffll'm
+Β C, per lineam quae erit in ratione continua B F quarundam,etc
+ad B C quinta. Eadem ratione spatia transcursa
+
+juxta velocitatis in caeteris rationibus incrementa
+determinari possunt.
+
+Restat ut ostendamus rationem FE ad CD esse
+rationis Β F ad Β C triplicatam. Si sint duae
+quantitateS, una triplo major quam altera, illa,
+quae est tripla, reliqua major est. Sed ratio
+duarum quantitatum inaequalium est quantitas.
+
+Ergo si sint duae rationes, quarum una est alterius
+tripla, illa maj0r est quae est tripla alterius.
+
+Duarum rationum, nempe, rectae FE ad rectam
+C D, et rectae B F ad rectam BC, altera est alterius
+tripla. Ergo illa est reliquae tripla, quae est
+illarum maJor.
+
+Sed ut BF ad BC, ita est FH ad CD. Ergo
+duarum rationum FE ad C D, et F H ad C D, illa,
+quae maj0r est, est reliquae tripla. Sed ratio F E
+ad CD maj0r est quam ratio FH ad CD (per
+Eucl. Elem. 5, prop. 8). Ergo ratio FE ad CD
+est tripla rationis F H ad C D, hoc est Β F ad B C.
+
+Quod restabat demonstrandum.
+
+Scio multiplicatas rationes significari plerumque
+a geometris per duplicatam, triplicatam, quadru-
+plicatam, &c., vix unquam per duplam, triplam,
+quadruplam, διο.
+
+Sed in calculo rationum, alia saepe res est
+additio, alia, multiplicatio aequalium.
+
+Cujus rei causa est, quod ratio majoris ad minua,
+quae est ratio excessu8, multiplicando augetur3
+

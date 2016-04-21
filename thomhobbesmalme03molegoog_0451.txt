@@ -1,0 +1,44 @@
+DE cnm-Ro AEQleBRn. 289
+
+aeqnilibrii, et centra aequilibrii ipsorum D et Ε sint PARS 111·
+puncta D et E: ducatur utcunque A G F, secans L
+D B productam in F, et E Ο in G; denique com-
+muni centro A describantur duo arcus B H, Ο Ι,
+secantes AG F in H et Ι. Dico momentum pon-
+derantis D esse ad momentum ponderantis E, ut
+AB ad AC, vel BH ad ΟΙ, vel BF ad OG. Est
+enim effectus ponderantis D, in puncto B, motus
+circularis per arcum B H, et ponderantis E, motus
+circularis per arcum CI; qui motus, propter aequa-
+litatem ponderantium D et E, sunt ut impetus sive
+velocitates punctorum B et Ο, per ipsos arcus BH,
+CI; hoc est, sicut arcus ipsi BH, CI; sive ut rectae
+parallelae B F, Ο G ; sive radii partes A B, A Ο.
+
+NamAB. Act: BF. CG::BH. ΟΙ sunt propor-
+
+tionales; sunt igitur effectus aequalium ponderan-
+tium, hoc est, (per definit. 4) momenta ipsorum
+applicatorum ad diversa radii puncta, ut A B ad
+A Ο ; sive ut distantiae illorum punctorum a centro
+librae, sive ut bases parallelae triangulorum haben-
+tium angulum ad A communem; sive ut arcus
+concentrici BH, CI; id quod erat demonstrandum.
+
+5. Ponderantia inaequalia, diversis radii punctis ‚Ponderqntium
+applicata, momenta habent in ratione composita 3133& uiuat
+ex rationibus distantiarum a centro librae‚ et pon· {fflffiff‘fffflssj
+deris ad pondus. 2533?ng
+
+Sit enim (in fig. 3) librae centrum A, radius AB ι centro libro·
+cui applicata sint duo ponderantia Ο, D, in punctis
+B et E. Dico rationem momenti ponderantis C,
+ad momentum ponderantis D, compositam esse
+ex rationibus AB ad AE, et ponderis Ο ad pondus
+D, vel, si Ο et D sint homogenea‚ magnitudinis Ο
+ad magnitudinem D.
+
+Ponatur utrum libet, Ο, majus altero D; si ergo
+
+VOL. 1. U
+

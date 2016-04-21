@@ -1,0 +1,63 @@
+PARS 1.
+
+Iu syllogismo
+tres tautum·
+sunt termini.
+
+Major,
+minor,
+
+et medius
+terminus,
+item maJor
+et minor
+propositio
+quid sint.
+
+Medius
+tsmzinus
+in omui
+syllogismo
+debet esse
+
+40 COMPUTATIO SIVE LOGICA.
+
+corpm, erg0, omnis homo est eorpus, syllogismus
+est; quoniam tertia ex praecedentibus sequitur, id
+est, si illae verae esse concedantur, concedi necesse
+est hanc quoque veram esse.
+
+2. Ex duabus autem propositionibus quae ter-
+minum communem non habent conclusio nulla
+sequitur, neque ergo fit syllogismus; sint enim
+quaelibet duae praemissae homo est animal, arbor
+est planta, ambae verae; quoniam tamen ex his
+non colligitur plantam nomen⁴ esse aut hominis
+aut hominem plantae, non necesse est ut vera sit
+homo est planta. Corollarium. Itaque in syllo-
+gismi praemissis tres tantum termini esse possunt.
+
+Praeterea in conclusione terminus nullus esse
+potest qui non suerit in praemissis3 sint enim duae
+praemissae quaelibet homo est animal, animal est
+cor-pm, si tamen in conclusione ponatur alius qui-
+libet terminuS, ut homo est bipes, etsi vera sit,
+non tamen ex praemissis sequitur ; cum ex iis non
+colligitur nomen bipes convenire homini3 quare
+rursus in unoquoque syllogismo termini tres tan·
+tum sunt.
+
+3. Horum terminorum major dici solet is qui
+est in conclusione praedicatum ; minor, is qui est
+in conclusione subjectum, reliquus medius vocatur,
+ut in hoc syllogismO, homo est animal, animal est
+corpus, ergo, homo est corpus, eorpus est terminus
+maior, homo terminus minor, et animal medius.
+Item praemissarum ea in qua reperitur terminus
+major, major propo-sitim ea quae habet terminum
+minorem, minor propositio dicitur.
+
+4. Si medius terminus non sit in utraque prae-
+missa determinatus ad unam eandemque rem
+singularem, conclusio ex praemissis non sequetur,
+

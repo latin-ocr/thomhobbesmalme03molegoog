@@ -1,0 +1,48 @@
+PARS 11.
+
+158 PmLOSOPmA PmMA.
+
+5. Praeterea colligitur hinc lineae rectae pro-
+
+2-—r-—2 prietas haec; nempe, si termini ejus in aliquo
+
+Rectae lineo
+ut in plano
+
+existant plano, etiam totam in eodem plano esse.
+
+proprimte‘· Nam cum duo ejus termini in plano sint, recta,
+
+quae planum ipsum describit, transibit per utrumque
+terminum ς sumpto autem utrovis puncto pro
+centro, intervallo dictorum terminorum descripta
+circumferentia, cujus radius est recta quae planum
+describit, per alterum terminum transibit. Est
+ergo inter duos terminos propositos recta una (ex
+definitione circuli,) tota in plano proposito. Si
+ergo alia recta inter eosdem terminos duci posset,
+quae in eo plano non esset, possent inter eadem
+puncta duci duae lineae rectae; quod ostensum est
+esse impossibile.
+
+Colligitur etiam, si duo plana se mutuo secuerint,
+communem sectionem esse lineam rectam. Nam
+duo sectionis termini sunt in utroque plano secante,
+et inter ipsos duci potest linea recta; sed recta inter
+duo puncta in eodem est plano cum ipsis punctis,
+quae cum sint in utroque plane, etiam recta illa in
+utroque erit, et propterea est eorum communis
+sectio. Omnis autem alia linea inter eadem
+puncta, cum ea coincidet, id est, eadem erit, vel non
+coincidet et proinde extra alterum vel utrumque
+planum ibit.
+
+Intelligi facile potest, ut sicut recta circa punc—
+tum immotum ut centrum, ita planum circa immo-
+tam lineam rectam ut axem, circumduci posse.
+Ex quo manifestum est, quaelibet tria puncta in
+eodem esse aliquo plano. Nam duo puncta quae-
+libet, si recta connectantur, sunt in eodem plano
+in quo est ipsa recta. Si igitur planum illud super
+illam rectam circumducatur, excipiet revolvendo
+

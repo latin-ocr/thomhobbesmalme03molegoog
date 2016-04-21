@@ -1,0 +1,46 @@
+nu DIMENSIONE claeon. 245
+
+necessarium sit ut numerus partium 5,7 7 3‚503 sit
+minor justo. Quod si ex quadratis ab X A et A B
+geometrice cognitis quaerantur quadrata totius
+X Β et B F, quae duo quadrata habent rationem 3
+ad 1, unica extractione radicis innotuisset numerus
+debitus rectae CF sive Β Ε, absque regula trium,
+et proinde absque divisione numeri linearum per
+numerum ab iisdem lineis quadratorum. Atque
+hinc est, quod numerus rectae B E hoc modo in·
+ventuS, nempe 5‚811‚704 major sit quam quem illi
+invenerunt 5,7 7 3,503‚ et propior veritati, quanquam
+et ipse sit paulo adhuc justo minor. Itaque etiam
+Archimedis dimensio circuli, quae dependet a priore
+illo calculo, justo minor est; neque valere debet ad
+confutandum calculum geometricum, quo perimeter
+circuli major forte invenietur quam ab illo statuitur.
+
+PROPosl'rlo lI.—Recta Β F, composita a radio
+circuli et tangente arcus 30 graduum, est aequalis
+quartae parti perimetri ejusdem circuli. Si e S
+producatur donec occurrat rectae X F in f, erit
+e f tripla e S. Ducta ergo X S abscindit ab e f
+tertiam ejus partem, nempe e S ; eademque pro-
+ducta ad B C in i abscindit Bi, propter e f, BF
+parallela8‚ tertiam partem rectae B F. Secetur
+recta e S bifariam in α, et arcus RS bifariam in p3
+ducaturque sinus arcus B p, qui sinus sit q 1²³ erit-
+que q p semissis ohordae arcus dupli, id est, arcus
+B S. Producatur q p in y, ita ut q y sit dupla qp,
+secetque S Ο in r. Ducatur quoque α η parallela
+et aequalis e q. Si jam producta X α incidat in p,
+erit qy aequalis chordae arcus B S; eademque pro·
+ducta, donec incidat in X F ad z, erit qz tripla q y,
+et sextupla q p. Sed X α producta incidit in p.
+Quod sic ostendo. Nisi incidat in p, incidet saltem
+
+ΡΑΙέῗ) ΙΙΙ.
+
+*qr—d
+
+&repositio 1.
+
+Propositio 2.
+

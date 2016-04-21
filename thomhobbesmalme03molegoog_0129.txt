@@ -1,0 +1,28 @@
+LEMMATA CAPITUM.
+
+PARS PRIMA,
+
+mvn Looch.
+
+cn. no.
+1. ΒΘ Philosophia . . . . . . . . 1
+2. ΒΘ vocabulis . . . . . . · . 11
+3. ΒΘ Propositione . . . . . . . . 26
+4. De Syllogismo . . . . . . . . 39
+5. ΒΘ Eri-atione, Falsitate, et captionibus . . . . 49
+6. De Methodo . . . . . . . . 58
+
+PARS SECUNDA,
+
+SIVE PHILOSOPHIA PRIMA.
+
+7. ΒΘ Loco et Tempore . . . . . . . 81
+8. ΒΘ Corpore et Accidente . . . . . . 90
+9. ΒΘ Causa et Effeotu . . . . . . . 106
+10. ΒΘ Potentiae-t Actu . . . . . . . 113
+11. DeEodemetDiverso . . . . . . . 117
+12. ΒΘ Quantitate . . . . . . ἱ . . 123
+13. ΒΘ Analogismo sive eadem Ratione . . . . 128
+
+14. ΒΘ Recto, Curvo, Angulo‚ et Figura . . . . 158
+

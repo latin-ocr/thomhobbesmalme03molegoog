@@ -1,0 +1,56 @@
+DE cunrno AEQUILIBRH. 295
+
+ad A Z, composita ex ratione momenti figurae ΡΑῐέξ 111·
+completae C D F E ad momentum figurae deficientis s-fssa
+C I A P E et ex ratione ponderis figurae deficientis 2333
+C Ι Α Ρ Ε ad pondus figurae completae C D F E. figurarum, &0-
+Sed ratio A L ad A Z componitur ex rationibus
+
+AL ad BZ et BZ ad AZ. Jam ratio BZ ad AZ
+
+est ratio ponderum reciproca, id est, ponderis
+
+C Ι A P E ad pondus C D F E. Itaque ratio reliqua
+
+A L ad B Z, id est, LB ad B Z est ratio momenti
+ponderis C D F E ad momentum ponderis cl A P E.
+
+Sed ratio A L ad B Z componitur ex rationibus
+
+AL ad AZ et AZ ad BZ; quarum rationum ea,
+
+quae est AZ ad B Z, est ratio ponderis C D F E ad
+
+pondus C IA P E. Quare (per articulum 5) reliqua
+
+ratio A L ad AZ est ratio distantiarum Z et L a
+
+centro librae, quod est A. Quare (per art. 6)
+
+pondus CI A P E aequilibratum erit super rectam
+
+O Z. Est ergo Ο Ζ altera diameter aequssibrii
+ponderis C I A PE. Sed altera ejusdem ponderis
+diameter aequilibrii est recta A B. Quare (per
+
+def. 7) punctum Z est centrum gravitatis ponderis
+
+CI A P E. Quod punctum, per constructionem,
+
+dividit axem ita ut pars A Ζ, quae est ad verticem,
+
+‘sit ad partem reliquam B Z, ut figura completa
+
+C D F E ad figuram deficientem C I A P E. Quod
+
+erat demonstrandum.
+
+Coroll. 1. Cujuslibet trilinei plani eorum, quae
+comparantur cum completis suiS, in tabella
+articuli 3, capitis xvu‚ centrum aequilibrii per
+ipsam eandem tabulam habetur, sumendo frac-
+tionis denominatorem pro parte axis ad verticem,
+numeratorem vero pro parte ad basim. Exempli
+causa, quaerens centrum aequilibrii trilinei ex
+mediis quatuor secundi ; invenio in concursu
+

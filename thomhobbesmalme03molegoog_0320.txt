@@ -1,0 +1,44 @@
+168 PHILOSOPHIA PRIMA.
+
+ΡΔῙΙἚ 11· in quo ponantur quotlibet subtensae aequaleS, B C,
+
+Qum C D, D E, ducanturque a termino B subtensae B C
+
+nne„ suctione ad terminos subtensarum C D, DE rectaelineae B D,
+
+{flgf‘gsstfiff‘ ΒΕ, quae, sicut et ipsa BC, productae utcunque in
+G, H, I, faciant angulos cum subtensis succeden-
+tibuS, nempe angulos G C D, H D E. Ducta etiam
+sit contingens K B, faciens cum prima subtensa
+angulum K B C. Dico angulum G C D duplum
+esse anguli K B C, et angulum H D E ejusdem
+K B C triplum. Nam si ducatur A C, secans B D
+in M, et ad punctum C ponatur L C. ipsi perpen-
+diculariS‚ erunt L C, M D, propter angulos rectos
+ad C et M, parallelae. Anguli ergo L C D, B D C
+alterni sunt aequales; item proper aequalitatem
+rectarum B C, C D, anguli B D C, C B D sunt
+aequales, Anguli ergo C B D vel C D B duplus
+est angulus G C D.> Est ergo angulus G C D
+duplus anguli L C D, hoc est, anguli K B C.
+Rursus C D est parallela B E, propter angulorum
+C B E, D E B, et rectarum C B, D E aequalitatem,
+quare anguli G C D, G B E sunt aequaleS, et per
+consequens tam G B E, quam D E B, duplus est
+anguli K B C. Sed angulus externus H D E
+aequalis est utrique interno D E B, D B E; est
+ergo angulus H D E anguli K B C tripluS, etc.
+quod erat probandum.
+
+Coroll. 1. Constat hinc angulos K B C, C B D,
+et denique omnes comprehensos a duabus rectis
+in circuli circumferentia concurrentibuS, insisten-
+tibusque aequalibus arcubuS, esse inter se aequales·
+
+Coroll. 11. Si contingens B K centro B semper
+moveatur uniformiter secundum circumferentiam,
+aequalibus temporibus aequales abscindet arcus;
+totamque perimetrum transibit eodem tempore
+
+quo ipsa super centro B describit semiperimetrum.
+

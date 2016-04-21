@@ -1,0 +1,39 @@
+144 PHILosopmA PRmA.
+
+ΡΔΙῖἓ 11· A ad C, secundorum ; et C in B in F, ad C in D
+
+⁹4—ae in F primorum, ut B ad D, hoc est (per construc-
+’ἐξέζξξῗξοηη tionem) ut C ad E secundorum 3 et ratio C in D in
+F, ad C in D in G primorum, ut F ad G, hoc est
+(per constructionem) ut E ad H secundorum.
+Sunt ergo prima A in B in F, C in D in G, secundis
+A, H proportionalia; componitur autem ratio A ad
+H ex rationibus A ad C, B ad D, F ad G, quare
+ratio factorum A in B in F, C in D in G componitur
+ex iisdem. Eodem modo procedetur si facta fuerit
+ex efficientibus quotcunque. Hinc componendi
+rationes plures in unam alius modus nascitur,
+nempe, ille qui supponitur in definitione 5, lib. 6.
+Euclidis‚ multiplicando scilicet vel ducendo omnium
+rationum antecedentia in se invicem, et omnia simi-
+liter consequentia. Ex quo apparet (primo loco) causa
+propter quam parallelogramma, quippe quae fiunt
+ductu duarum rectarum in se invicem, et solida
+omnia quae sic factis sunt aequalia, habere rationem
+compositam ex rationibus facientium. Deinde
+causa quare multiplicatio in se duarum vel plurium
+fractionum, idem sit quae compositio rationum
+quas habent singuli numeratores ad singulos
+denominatoreS. Exempli causa, si hae fractiones
+ᾖ ἓ Ξ multiplicandae sint in se, multiplicandi sunt
+primum l, 2, 3, in se, qui faciunt 6, deinde 2, 3,
+4, in se, qui faciunt 24 ; oriturque fractio ᾗ. Item
+si sint componendae rationes l ad 2, 2 ad 3, 3
+ad 4, faciendo ut in praecedente demonstratione
+docuimuS, orietur ratio 6 ad 24.
+15. Si ratio componatur cum sui ipsius inversa,
+composita est ratio aequalitatiS.
+Sit enim ratio quaecumque A ad B, ratio autem
+
+alia C ad D sit illius inversa. Componentur autem
+
